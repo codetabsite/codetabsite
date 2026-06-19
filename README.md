@@ -1,12 +1,12 @@
 ## Merhaba 👋
-## Code Tab Ekibinin Sitesi 
+##  My Site
 ## HTML,JS,CSS
 ## - 🔭 Şu anda üzerinde çalışıyorum CodeTAB 
-## - 🌱 Şu anda öğreniyorum... LM
-## - 👯 Şu konuda iş birliği yapmak istiyorum SEN                               |
-## - 🤔 Şu konuda yardıma ihtiyacım var CodeTab
+## - 🌱 Şu anda öğreniyorum... ML Aİ
+## - 👯 Şu konuda iş birliği yapmak istiyorum No One                              |
+## - 🤔 Şu konuda yardıma ihtiyacım var Nothing
 ## - 💬 Bana şunlar hakkında soru sorabilirsiniz Linux 
 ## - 📫 Bana nasıl ulaşabilirsiniz: info.codetabteknofest@gmail.com codetabteknofest@gmail.com 
-## - 😄 İsimler: CodeTAB Brak Mami Dursun
-## - codetab.vercel.app
+## - 😄 İsimler: he 
+## - 
 
