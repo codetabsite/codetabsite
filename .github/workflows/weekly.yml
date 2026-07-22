@@ -7,6 +7,7 @@ on:
     - cron: '28 11 * * 1'  # Pazartesi
     - cron: '52 18 * * 3'  # Çarşamba
     - cron: '7 14 * * 5'   # Cuma
+  workflow_dispatch:        # Manuel başlatma
 
 jobs:
   commit:
@@ -16,7 +17,7 @@ jobs:
       
       - name: Random commits
         run: |
-          git config user.email "tuxrealkernel@gmail.com"
+          git config user.email "info.codetabteknofest@gmail.com"
           git config user.name "codetabsite"
           COUNT=$((RANDOM % 3 + 3))
           for i in $(seq 1 $COUNT); do
