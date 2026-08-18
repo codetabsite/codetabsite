@@ -35,17 +35,6 @@ val muhammed = Developer(
 
 </div>
 
-### 🎵 MPlayer — *"Minimal"* Music Player
-
-> Started as a simple mp3 player.
-> Now has achievements, stats, lyrics editor, ringtone maker...
-> Still calling it minimal. 😅
-
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?logo=kotlin&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache--2.0-green)
-![F-Droid](https://img.shields.io/badge/F--Droid-Pending-blue)
-![Ads](https://img.shields.io/badge/Ads-0-brightgreen)
-![Internet](https://img.shields.io/badge/Internet%20Permission-Nope-red)
 
 ---
 
@@ -58,44 +47,16 @@ val muhammed = Developer(
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7F52FF?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Currently
-
-```
-[████████░░] Developing MPlayer
-[██████░░░░] Waiting for F-Droid (send help 🙏)
-[████░░░░░░] Planning Android TV support
-[██░░░░░░░░] Looking for translators
-[░░░░░░░░░░] Sleeping
-```
+---
 
 ---
 
-## 😂 Dev Jokes
-
-> "It works on my machine"
-> — Me, always
-
-> "I'll clean up the code later"
-> — Me, never
-
-> "This is a minimal app"
-> — Me, after adding the 25th feature
-
----
-
-## 🌍 Looking for Translators!
-
-> Want to translate MPlayer to your language?
-> No coding required! Check out the repo 👇
-
-[![MPlayer](https://img.shields.io/badge/Translate%20MPlayer-Join%20Us!-brightgreen?style=for-the-badge&logo=github)](https://github.com/codetabsite/Mplayer)
-
----
 
 ## 📬 Contact
 
@@ -103,7 +64,6 @@ val muhammed = Developer(
 
 [![Email](https://img.shields.io/badge/Email-tuxrealkernel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuxrealkernel@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mcevik.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mcevik.netlify.app)
-[![Reddit](https://img.shields.io/badge/Reddit-u%2FTaldevv-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Taldevv)
 
 </div>
 
